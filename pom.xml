@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ozgur</groupId>
-	<artifactId>boardapp</artifactId>
+	<artifactId>cvapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JobBoard</name>
-	<description>JobBoard Project - Spring</description>
+	<name>CvApp</name>
+	<description>CV App Project - Spring + React</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

@@ -1,6 +1,6 @@
 ##
 
-![img.png](img.png)
+![img.png](Capture.PNG)
 
 1.  Run `docker-compose up --build`
 
